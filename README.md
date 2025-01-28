@@ -86,4 +86,4 @@ SoftEther VPN 也支持 Linux 系统，可以通过命令行或 GUI 工具连接
 ### 4. 注册维基百科账号
 
 1. 通过上述方法连接到 VPN 或代理后，访问 [维基百科注册页面](https://zh.wikipedia.org/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7)。
-2. 完成注册后，在用户讨论页上挂{{封禁申诉|申请IPBE+封禁IP地址}}模板，申请 IP 封禁豁免。
+2. 完成注册后，在用户讨论页上挂```{{封禁申诉|申请IPBE+封禁IP地址}}```模板，申请 IP 封禁豁免。
